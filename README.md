@@ -1,7 +1,7 @@
 **Personal Profile Page (HTML Only)**
 📌 Key Features Implemented:
 🔹 Uses only HTML( no CSS or JavaScript).
-🔹 Better readability & structure using semantic HTML( <header>, <nav>, <section>, <footer>).
+🔹 Better readability & structure using semantic HTML tags like (header, nav, <section>, <footer>).
 🔹 Includes a title, navigation menu, bio, hobbies list, and contact details.
 🔹 More engaging with icons & formatting (e.g., <strong>, <em>, <ul>).
 🔹 More professional & comprehensive—includes skills and projects.
@@ -24,7 +24,7 @@ Highlights real-world projects.
 Uses <strong> to emphasize project names.
 Helps showcase experience effectively.
 ✅ 6. Enhanced "Contact" Section
-Provides multiple ways to contact you (Email, Phone, LinkedIn, Twitter).
+Provides multiple ways to contact you (Email, Phone, LinkedIn,).
 Uses <a href="mailto:..."> for clickable email.
 Adds clickable links to social media profiles.
 ✅ 7. Footer Section
