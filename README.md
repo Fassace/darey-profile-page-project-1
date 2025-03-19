@@ -1,6 +1,6 @@
 **Personal Profile Page (HTML Only)**
 📌 Key Features Implemented:
-🔹 Uses only HTML (no CSS or JavaScript).
+🔹 Uses only HTML( no CSS or JavaScript).
 🔹 Better readability & structure using semantic HTML (<header>, <nav>, <section>, <footer>).
 🔹 Includes a title, navigation menu, bio, hobbies list, and contact details.
 🔹 More engaging with icons & formatting (e.g., <strong>, <em>, <ul>).
