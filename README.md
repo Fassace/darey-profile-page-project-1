@@ -9,19 +9,19 @@
 
 **Code Breakdown**
 ✅ 1. Navigation Menu
-Now has a structured <nav> with clickable links for each section.
+Now has a structured nav with clickable links for each section.
 Helps users navigate smoothly within the page.
 ✅ 2. More Detailed "About Me" Section
-Added bold text (<strong>) and italicized text (<em>) for emphasis.
-Included a placeholder profile picture (<img> tag).
+Added bold text strong tag and italicized text em tag for emphasis.
+Included a placeholder profile picture (img tag).
 ✅ 3. Expanded Hobbies Section
 Uses emoji icons to make it more visually appealing.
 Descriptions are clear and engaging.
 ✅ 4. Added a "Skills" Section
-Lists technical skills with bullet points (<ul>) for clarity.
+Lists technical skills with bullet points (ul) for clarity.
 ✅ 5. New "Projects" Section
 Highlights real-world projects.
-Uses <strong> to emphasize project names.
+Uses strong tag to emphasize project names.
 Helps showcase experience effectively.
 ✅ 6. Enhanced "Contact" Section
 Provides multiple ways to contact you (Email, Phone, LinkedIn,).
